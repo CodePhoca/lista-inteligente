@@ -2,8 +2,8 @@
 Nombre del programa: Lista_inteligente.py
 Objetivo: Crear una Lista de Compras Inteligente
 Fecha: 15/06/2026
-Programado por: PhocaDev
-Modificado por: PhocaDev
+Programado por: CodePhoca
+Modificado por: CodePhoca
 
 """
 
